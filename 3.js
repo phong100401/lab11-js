@@ -1,0 +1,1 @@
+var studName = David, studID=15;
